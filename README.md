@@ -1,2 +1,4 @@
-# learning-opencode
-Learning OpenCode
+learning-opencode
+# Learning OpenCode
+
+- [References](./REFERENCES.md)
